@@ -20,5 +20,7 @@ body{
 .price-block{
 	display:block;
 	width:90vw;
+	color:white;
 	background-color:#2ecc71;
+	border-radius:5px;
 }
